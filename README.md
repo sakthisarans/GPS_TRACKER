@@ -6,9 +6,13 @@ Github Repositories  : https://github.com/sakthisarans?tab=repositories
 
 Implemented a microservices architecture for GPS tracker management, incorporating JWT token-based authentication. Successfully deployed the system on Kubernetes using Jenkins. The microservice exposes multiple endpoints to control the tracker and serve data to the React-based UI, which is also deployed in Kubernetes.
 
+
 UI              : https://github.com/sakthisarans/GPS_Tracker_UI
+
 Authentication  : https://github.com/sakthisarans/GPS_Tracker_Authentication_Service
+
 Management      : https://github.com/sakthisarans/GPS_Tracker_Main
+
 Gateway         : https://github.com/sakthisarans/GPS_Tracker_Gateway
 
 Swagger         : https://api.sakthisaran.site/swagger.html
